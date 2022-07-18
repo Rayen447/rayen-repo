@@ -8,8 +8,7 @@
 
 //////////////////////////////////////////////////////////////////////////////////////////////
 Step 1
-<<<<<<< HEAD
-Preheat the oven to 500F degrees F . Grease and flour a 9-inch square cake pan.
+Preheat the oven to 20F degrees F . Grease and flour a 9-inch square cake pan.
 
 Step 2
 Cream sugar and butter together in a mixing bowl. Add eggs, one at a time,
